@@ -1,0 +1,13 @@
+.scrum-badge {
+     background-color: #428bca;
+     color: #FFFFFF;
+     margin-right: 4px;
+     width: 20pt;
+     text-align: right;
+     cursor: pointer;
+     margin-bottom: 4px;
+}
+
+.float-left {
+    float: left;
+}
